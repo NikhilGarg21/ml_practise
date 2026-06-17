@@ -59,10 +59,8 @@ The dataset contains laptop specifications including:
 ---
 
 ## Best Model
-**Random Forest Regressor**
-
-- Cross Validation R² Score: ~0.82  
-- Most stable and best-performing model among all tested algorithms  
+Random Forest Regressor  
+Cross Validation R² Score: ~0.82  
 
 ---
 
@@ -89,8 +87,4 @@ The dataset contains laptop specifications including:
 - NumPy  
 - Scikit-learn  
 - Matplotlib  
-- Seaborn
-
-
-
----## Project Structure
+- Seaborn  
