@@ -1,6 +1,11 @@
 # Fake News Detection using NLP and Machine Learning
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Machine Learning](https://img.shields.io/badge/ML-Regression-green.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Used-orange.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-A complete Fake News Detection project built using **Natural Language Processing (NLP)** and **Classical Machine Learning**. This project classifies news articles as **Real** or **Fake** using TF-IDF feature extraction and multiple machine learning algorithms.
+A complete Fake News Detection project built using **Natural Language Processing (NLP)** and **Classical Machine Learning**. 
+This project classifies news articles as **Real** or **Fake** using TF-IDF feature extraction and multiple machine learning algorithms.
 
 ---
 
